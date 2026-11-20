@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Triple Row Crystal Band Ring",
+    "category": "Rings",
+    "price": "EGP 450",
+    "image": "/photos/product-image-1556261527_1080x.jpg",
+    "description": "Elegant triple-row pavé crystal ring set available in striking gold and silver tones, designed to add brilliant sparkle and sophisticated glamour to any outfit."
+  },
+  {
+    "id": 2,
+    "name": "Celestial Moon & Star Ring",
+    "category": "Rings",
+    "price": "EGP 380",
+    "image": "/photos/product-image-1667184913_1080x (1).jpg",
+    "description": "Dainty gold-plated open ring featuring a celestial motif with sparkling cubic zirconia stars, a delicate crescent moon, and a subtle pearl accent."
+  },
+  {
+    "id": 3,
+    "name": "Dashing Butterfly Open Ring",
+    "category": "Rings",
+    "price": "EGP 350",
+    "image": "/photos/product-image-1696001949_1080x (1).jpg",
+    "description": "Charming adjustable butterfly ring embellished with shimmering micro-crystals, offering a romantic and whimsical touch to your everyday look."
+  },
+  {
+    "id": 4,
+    "name": "Interlocking Hearts Eternity Ring",
+    "category": "Rings",
+    "price": "EGP 400",
+    "image": "/photos/product-image-1696001951_1080x.jpg",
+    "description": "Delicate gold band formed by a sequence of open-work hearts encrusted with glittering crystals, symbolizing love, elegance, and modern grace."
+  },
+  {
+    "id": 5,
+    "name": "Modern Crossover Paved Ring",
+    "category": "Rings",
+    "price": "EGP 420",
+    "image": "/photos/product-image-1696001952_1080x.jpg",
+    "description": "Contemporary crossover design featuring a polished gold half-band meeting a dazzling crystal-paved terminal for a chic, statement finish."
+  },
+  {
+    "id": 6,
+    "name": "Golden Disc & Textured Band Ring",
+    "category": "Rings",
+    "price": "EGP 370",
+    "image": "/photos/product-image-1696001953_1080x.jpg",
+    "description": "Unique statement ring showcasing a central shimmering disc encrusted with clear crystals, complemented by a textured link-style band."
+  },
+  {
+    "id": 7,
+    "name": "Cuban Chain Crystal Band Ring",
+    "category": "Rings",
+    "price": "EGP 430",
+    "image": "/photos/product-image-1696001954_1080x.jpg",
+    "description": "Edgy yet sophisticated Cuban link chain ring fully paved with sparkling cubic zirconia crystals, perfect for stacking or wearing solo."
+  },
+  {
+    "id": 8,
+    "name": "Sphere & Pavé Ball Adjustable Ring",
+    "category": "Rings",
+    "price": "EGP 350",
+    "image": "/photos/product-image-1696001955_1080x.jpg",
+    "description": "Minimalist geometric ring featuring a sequence of polished gold spheres paired with a sparkling pavé crystal ball terminal on an open band."
+  },
+  {
+    "id": 9,
+    "name": "Twisted Wave Eternity Ring",
+    "category": "Rings",
+    "price": "EGP 340",
+    "image": "/photos/product-image-1696001956_1080x.jpg",
+    "description": "Graceful twisted rope band delicately embedded with shimmering micro-stones, creating a flowing, timeless aesthetic for daily wear."
+  },
+  {
+    "id": 10,
+    "name": "Geometric Rectangular Drop Earrings",
+    "category": "Earrings",
+    "price": "EGP 480",
+    "image": "/photos/product-image-1874188598_1080x.jpg",
+    "description": "Sleek and modern gold-plated drop earrings featuring a clean minimalist rectangular frame design, offering an elegant statement for professional and chic evening wear."
+  },
+  {
+    "id": 11,
+    "name": "Textured Sparkle Hoop Earrings",
+    "category": "Earrings",
+    "price": "EGP 520",
+    "image": "/photos/product-image-1354437870_1080x.jpg",
+    "description": "Dazzling medium-sized hoop earrings crafted with a unique textured, shimmering finish that catches the light beautifully from every angle."
+  },
+  {
+    "id": 12,
+    "name": "Chunky Polished Dome Studs",
+    "category": "Earrings",
+    "price": "EGP 380",
+    "image": "/photos/product-image-1897191458_1080x.jpg",
+    "description": "Bold and contemporary organic dome stud earrings with a high-polish mirror finish, perfect for an effortless everyday minimalist aesthetic."
+  },
+  {
+    "id": 13,
+    "name": "Multi-Strand Wrapped Hoop Earrings",
+    "category": "Earrings",
+    "price": "EGP 490",
+    "image": "/photos/product-image-1959386343_1080x.jpg",
+    "description": "Stylish dimensional hoop earrings formed by elegant multi-layered twisted golden bands, bringing rich texture and movement to your look."
+  },
+  {
+    "id": 14,
+    "name": "Pearly Glamour Square Statement Earrings",
+    "category": "Earrings",
+    "price": "EGP 550",
+    "image": "/photos/product-image-1971308154_1080x.jpg",
+    "description": "Luxurious drop earrings densely encrusted with tiny shimmering faux pearls in a geometric square drop design, exuding vintage Parisian elegance."
+  },
+  {
+    "id": 15,
+    "name": "Interlinked Crystal Circle Studs",
+    "category": "Earrings",
+    "price": "EGP 420",
+    "image": "/photos/product-image-1971310272_1080x.jpg",
+    "description": "Charming delicate stud earrings featuring two interlocking circular loops—one twisted gold and one paved with micro-crystals—symbolizing eternal connection."
+  },
+  {
+    "id": 16,
+    "name": "Pavé Crystal Elephant Pendant Necklace",
+    "category": "Necklaces",
+    "price": "EGP 650",
+    "image": "/photos/H184b1a0e08f641d4981b5aa4daa845a00_1080x.jpg",
+    "description": "Exquisite rose gold-plated necklace featuring an adorable elephant pendant fully encrusted with sparkling cubic zirconia crystals for a touch of charm and luck."
+  },
+  {
+    "id": 17,
+    "name": "Solitaire Square Halo Pendant Necklace",
+    "category": "Necklaces",
+    "price": "EGP 720",
+    "image": "/photos/H28c51ad900ca4db48d6a208b18831959o_1080x (1).jpg",
+    "description": "Classic and radiant gold necklace showcasing a brilliant-cut solitaire diamond-like stone framed by a shimmering micro-pave square halo."
+  },
+  {
+    "id": 18,
+    "name": "Crescent Moon Crystal Projection Necklace",
+    "category": "Necklaces",
+    "price": "EGP 580",
+    "image": "/photos/H29c76ca141924861af3c22559ef2c85bW_1080x.jpg",
+    "description": "Enchanting crescent moon pendant necklace embedded with sparkling crystals and a central projection stone, combining celestial grace with modern romance."
+  },
+  {
+    "id": 19,
+    "name": "Dolphin Holographic Crystal Cube Necklace",
+    "category": "Necklaces",
+    "price": "EGP 620",
+    "image": "/photos/H341ec31cdf614370abd5f3428c1b78bbW_1080x.jpg",
+    "description": "Playful and eye-catching gold necklace featuring a sleek crystal-paved dolphin gracefully hugging a multi-colored holographic reflective cube."
+  },
+  {
+    "id": 20,
+    "name": "Magnetic Four-Leaf Clover Crystal Necklace",
+    "category": "Necklaces",
+    "price": "EGP 680",
+    "image": "/photos/H39fbd360f4584c7b91a46089c3c1f140B_1080x.jpg",
+    "description": "Versatile silver-tone necklace featuring a magnetic folding four-leaf clover pendant that can transform into four individual heart-shaped crystal charms."
+  },
+  {
+    "id": 21,
+    "name": "Clover Holographic Crystal Frame Necklace",
+    "category": "Necklaces",
+    "price": "EGP 660",
+    "image": "/photos/H4a5b2d63fe23402a9ac53081a81a04edM_1080x.jpg",
+    "description": "Luxurious gold-plated clover-shaped outline pendant paved with micro-crystals, enclosing a stunning multi-faceted color-shifting crystal center."
+  },
+  {
+    "id": 22,
+    "name": "Floating Crystal Perfume Bottle Necklace",
+    "category": "Necklaces",
+    "price": "EGP 600",
+    "image": "/photos/H5c952490f616405d8363eb64ac1411b1P_1080x.jpg",
+    "description": "Unique and whimsical perfume bottle shaped pendant housing a brilliant floating crystal that catches the light with your every movement."
+  },
+  {
+    "id": 23,
+    "name": "Imperial Ruby Red Pixiu Pendant Necklace",
+    "category": "Necklaces",
+    "price": "EGP 750",
+    "image": "/photos/H7a23f71ac6c4405393274deb5e5dfe08h_1080x.jpg",
+    "description": "Stunning statement necklace featuring a rich ruby-red gemstone base paired with an intricately detailed rose gold Pixiu beast encrusted with crystals."
+  },
+  {
+    "id": 24,
+    "name": "Modern Geometric Crystal Cage Necklace",
+    "category": "Necklaces",
+    "price": "EGP 560",
+    "image": "/photos/H932e646b9cbb49bfaa00440e3c29d85dO_1080x.jpg",
+    "description": "Contemporary rose gold open-work cage pendant suspending a brilliant free-moving solitaire crystal inside a striking geometric cube structure."
+  },
+  {
+    "id": 25,
+    "name": "Royal Crown Crystal Sphere Necklace",
+    "category": "Necklaces",
+    "price": "EGP 650",
+    "image": "/photos/H9fc640945ea3451eb61449aa215fffef4_1080x.jpg",
+    "description": "Majestic rose gold crown pendant designed with delicate detailing, cradling a luminous crystal sphere that glows with timeless royalty."
+  },
+  {
+    "id": 26,
+    "name": "Dainty Crystal Flower Charm Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 580",
+    "image": "/photos/product-image-1425004922_1080x.jpg",
+    "description": "Charming gold-plated link bracelet adorned with delicate floral charms shimmering with clear cubic zirconia petals for an ultra-feminine look."
+  },
+  {
+    "id": 27,
+    "name": "Adjustable Starry Flower Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 620",
+    "image": "/photos/product-image-1425004924_1080x.jpg",
+    "description": "Sophisticated adjustable slider bracelet featuring a cluster of sparkling floral stations with star-shaped centers, offering a customizable fit."
+  },
+  {
+    "id": 28,
+    "name": "Triple-Row Pavé Rose Gold Bangle",
+    "category": "Bracelets",
+    "price": "EGP 700",
+    "image": "/photos/product-image-1665769008_1080x.jpg",
+    "description": "Sleek and luxurious hinged rose gold bangle embedded with three continuous rows of brilliant micro-crystals for a high-end statement finish."
+  },
+  {
+    "id": 29,
+    "name": "Hammered Texture Gold Cuff Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 540",
+    "image": "/photos/product-image-1847629832_1080x.jpg",
+    "description": "Contemporary open cuff bracelet crafted with a handcrafted hammered texture that beautifully reflects light with a warm, organic glow."
+  },
+  {
+    "id": 30,
+    "name": "Baguette Crystal Slider Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 660",
+    "image": "/photos/product-image-1958796209_1080x.jpg",
+    "description": "Dazzling adjustable bracelet set with a curving row of brilliant baguette-cut crystals, bringing timeless elegance and modern brilliance to the wrist."
+  },
+  {
+    "id": 31,
+    "name": "Minimalist Paved Bar Slider Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 520",
+    "image": "/photos/product-image-1958796212_1080x.jpg",
+    "description": "Sleek box-chain slider bracelet featuring a curved metallic bar half-embedded with shimmering pavé stones for subtle everyday chic."
+  },
+  {
+    "id": 32,
+    "name": "Opal Drop & Crystal Charm Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 600",
+    "image": "/photos/product-image-1958796213_1080x.jpg",
+    "description": "Enchanting adjustable bracelet featuring glowing faux opal teardrop charms separated by sparkling crystal stations for an ethereal touch."
+  },
+  {
+    "id": 33,
+    "name": "Cluster Star-Flower Slider Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 640",
+    "image": "/photos/product-image-1958796214_1080x.jpg",
+    "description": "Graceful sliding bracelet showcasing a cluster of radiant crystal-paved flower charms with distinctive star centers."
+  },
+  {
+    "id": 34,
+    "name": "Chunky Interlocking Chain Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 680",
+    "image": "/photos/S279c731b0e064f0aa996429f4906a900J_81338ad9-3232-4261-bff0-e8fce9ab9709_1080x.jpg",
+    "description": "Bold multi-strand statement bracelet combining chunky geometric links with fine chains for a rich, high-fashion industrial aesthetic."
+  },
+  {
+    "id": 35,
+    "name": "Multi-Strand Belt Buckle Bracelet",
+    "category": "Bracelets",
+    "price": "EGP 720",
+    "image": "/photos/S76ea6f01e28d4d79b7b8571a67d606a7Y_f7f5b367-f511-49fa-9db1-0b71989d8916_1080x.jpg",
+    "description": "Unique multi-strand snake chain bracelet featuring a chic miniature belt buckle clasp design, exuding modern edgy luxury."
+  }
+]
